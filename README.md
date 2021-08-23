@@ -1,0 +1,5 @@
+- 👋 Hey, das ist der offizielle GitHub Account vom GamerRoom Discord Server und ich bin @InvalidLenni / @Lixoja 🙂
+- 🤖 Ich code gerne Discord Bots, ich habe mir gedacht ein paar mal vielleicht zu veröffentlichen.
+- 🔗 https://discord.gg/gamerroom
+- 🔗 https://global.gamerroomdc.de/ (GlobalChat - DDer ist aktuell noch in der Development Phase weil der Bot noch nicht fertig ist, aber ihr könnt ihn benutzen! :D)
+- 🔗 https://invite.lixoja.xyz/ ( @Lixoja )
